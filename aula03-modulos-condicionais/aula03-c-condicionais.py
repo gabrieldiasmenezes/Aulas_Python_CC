@@ -8,3 +8,4 @@ else:
     print('Aprovado')
 
 print('Fim')
+print('teste')
